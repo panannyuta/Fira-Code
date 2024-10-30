@@ -1,0 +1,45 @@
+<svg width="1440" height="419" viewBox="0 0 1440 419" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect y="2" width="1440" height="417" fill="#FFFEE6"/>
+<rect y="154" width="2" height="1440" transform="rotate(-90 0 154)" fill="#333333"/>
+<rect y="230" width="2" height="1440" transform="rotate(-90 0 230)" fill="#333333"/>
+<rect y="78" width="2" height="1440" transform="rotate(-90 0 78)" fill="#333333"/>
+<rect y="2" width="2" height="1440" transform="rotate(-90 0 2)" fill="#333333"/>
+<rect y="306" width="2" height="1440" transform="rotate(-90 0 306)" fill="#333333"/>
+<rect x="529" y="2" width="2" height="417" fill="#333333"/>
+<rect x="225" y="2" width="2" height="417" fill="#333333"/>
+<rect x="833" y="2" width="2" height="417" fill="#333333"/>
+<rect x="1365" y="2" width="2" height="417" fill="#333333"/>
+<rect x="73" y="2" width="2" height="417" fill="#333333"/>
+<rect x="681" y="2" width="2" height="417" fill="#333333"/>
+<rect x="1213" y="2" width="2" height="417" fill="#333333"/>
+<rect x="377" y="2" width="2" height="417" fill="#333333"/>
+<rect x="985" y="2" width="2" height="417" fill="#333333"/>
+<rect x="605" y="2" width="2" height="417" fill="#333333"/>
+<rect x="301" y="2" width="2" height="417" fill="#333333"/>
+<rect x="909" y="2" width="2" height="417" fill="#333333"/>
+<rect x="149" y="2" width="2" height="417" fill="#333333"/>
+<rect x="757" y="2" width="2" height="417" fill="#333333"/>
+<rect x="1289" y="2" width="2" height="417" fill="#333333"/>
+<rect x="453" y="2" width="2" height="417" fill="#333333"/>
+<rect x="1061" y="2" width="2" height="417" fill="#333333"/>
+<rect x="1137" y="2" width="2" height="417" fill="#333333"/>
+<line x1="3" y1="-3" x2="163.82" y2="-3" transform="matrix(-0.866025 -0.5 -0.5 0.866025 256.471 198)" stroke="#333333" stroke-width="6" stroke-linecap="round"/>
+<line x1="495.098" y1="193.902" x2="634.372" y2="113.492" stroke="#333333" stroke-width="6" stroke-linecap="round"/>
+<line x1="717.098" y1="193.902" x2="856.372" y2="113.492" stroke="#333333" stroke-width="6" stroke-linecap="round"/>
+<line x1="1038.1" y1="193.902" x2="1177.37" y2="113.492" stroke="#333333" stroke-width="6" stroke-linecap="round"/>
+<line x1="3" y1="-3" x2="163.82" y2="-3" transform="matrix(-0.866025 -0.5 -0.5 0.866025 1006.47 198)" stroke="#333333" stroke-width="6" stroke-linecap="round"/>
+<line x1="3" y1="-3" x2="163.82" y2="-3" transform="matrix(-0.866025 -0.5 -0.5 0.866025 484.471 198)" stroke="#333333" stroke-width="6" stroke-linecap="round"/>
+<line x1="262.317" y1="191.852" x2="327.5" y2="126.669" stroke="#333333" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="2.25" y1="-2.25" x2="94.4322" y2="-2.25" transform="matrix(-0.707107 -0.707107 -0.707107 0.707107 708.364 183)" stroke="#333333" stroke-width="4.5" stroke-linecap="round"/>
+<line x1="1200.25" y1="111.75" x2="1316.82" y2="111.75" stroke="#333333" stroke-width="4.5" stroke-linecap="round"/>
+<circle cx="720" cy="190" r="29" fill="#FD367E"/>
+<circle cx="1024" cy="190" r="29" fill="#FD367E"/>
+<circle cx="264" cy="190" r="29" fill="#FD367E"/>
+<circle cx="112" cy="114" r="29" fill="#FF3434"/>
+<circle cx="644" cy="114" r="29" fill="#3ABA62"/>
+<circle cx="1328" cy="114" r="29" fill="#3ABA62"/>
+<circle cx="492" cy="190" r="29" fill="#FF3434"/>
+<circle cx="1176" cy="114" r="29" fill="#FF3434"/>
+<circle cx="340" cy="114" r="29" fill="#333333"/>
+<circle cx="872" cy="114" r="29" fill="#333333"/>
+</svg>
